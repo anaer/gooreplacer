@@ -397,7 +397,7 @@
       "src": "https://icons.duckduckgo.com/ip3/([\\w.]+).ico",
       "kind": "wildcard",
       "dst": "https://statics.dnspod.cn/proxy_favicon/_/favicon?domain=$1",
-      "enable": true
+      "enable": false
     }
   ],
   "cancel-rules": [
