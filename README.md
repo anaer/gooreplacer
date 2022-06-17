@@ -12,6 +12,9 @@
 
 4. 因为不发市场, 所以需要使用 `开发人员模式`,加载解压缩的扩展 选择目录 `resources\release`
 
+在线规则:
+https://fastly.jsdelivr.net/gh/anaer/gooreplacer@master/gooreplacer.json
+
 ## [gooreplacer](http://liujiacai.net/gooreplacer) [![Build Status](https://travis-ci.org/jiacai2050/gooreplacer.svg?branch=master)](https://travis-ci.org/jiacai2050/gooreplacer)
 
 > 重定向/屏蔽 URL，修改/屏蔽 header
