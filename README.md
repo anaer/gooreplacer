@@ -14,6 +14,7 @@
 
 在线规则:
 https://fastly.jsdelivr.net/gh/anaer/gooreplacer@master/gooreplacer.json
+https://raw.iqiq.io/anaer/gooreplacer/master/gooreplacer.json
 
 ## [gooreplacer](http://liujiacai.net/gooreplacer) [![Build Status](https://travis-ci.org/jiacai2050/gooreplacer.svg?branch=master)](https://travis-ci.org/jiacai2050/gooreplacer)
 
